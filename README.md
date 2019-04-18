@@ -1,3 +1,6 @@
+Attempting to add a feature to Path of Building to import your own stash and directly add items to your build instead of copy-pasting from game. 
+
+
 # Path of Building
 
 Welcome to Path of Building, an offline build planner for Path of Exile!
